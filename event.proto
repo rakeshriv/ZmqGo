@@ -1,0 +1,17 @@
+syntax = "proto3";
+package events;
+
+message EventOne {
+    int32 priority = 1;
+    string event_name = 2;
+    string component_name = 3;
+    string comments= 4;
+}
+
+
+
+
+
+
+
+
