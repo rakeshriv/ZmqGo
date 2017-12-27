@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
     "time"
-    pub "ProjZmqGo/publisherSDK"
+    pub "ZmqGo/publisherSDK"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
     "errors"
     "strconv"
     "reflect"
-     _ "ProjZmqGo/events"
+     _ "ZmqGo/events"
      "github.com/golang/protobuf/proto"
      zmq "github.com/zeromq/goczmq"
 )

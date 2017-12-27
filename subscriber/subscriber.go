@@ -7,7 +7,7 @@ import (
     "encoding/csv"
     "github.com/golang/protobuf/proto"
      zmq "github.com/zeromq/goczmq"
-    events "ProjZmqGo/events"
+    events "ZmqGo/events"
 )
 
 
